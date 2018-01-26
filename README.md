@@ -1,6 +1,6 @@
-<img src="resources/logo-text-dark.svg" height="60"/>
+<img src="resources/logo.svg" height="60"/>
 
-An open Github repository for reporting issues and requesting features in [MailSlurp](https://www.mailslurp.com).
+An open Github repository for reporting issues and requesting features in [DomainPecker](https://www.domainpecker.com).
 
 ## Links
 - [Report an issue](/issues/new)
